@@ -1,4 +1,4 @@
-# NTE-tool · 异环小游戏助手
+# NTE-tool · 异环小游戏助手(记得右键以管理员身份运行，不然可能没效果）
 
 用于异环「甜蜜大摆圈」小游戏的 Windows 桌面工具：识别画面中的方向提示，执行点按、长按和连按；每局达到或超过 **9000 分**后停手，等待结算并按设置重新开始。
 <img width="612" height="598" alt="image" src="https://github.com/user-attachments/assets/578cf173-c48b-4de8-9d3c-15b474ac4dc1" />
